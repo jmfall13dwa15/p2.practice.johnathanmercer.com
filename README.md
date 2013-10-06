@@ -1,4 +1,4 @@
-p2.practice.johnathanmercer.com
-===============================
+p2.practice.johnathan.mercer.com
+================================
 
-practice project for Project 2
+This project is practice for project 2. I use a new PHP framework called [yiiframework](http://www.yiiframework.com/).  
